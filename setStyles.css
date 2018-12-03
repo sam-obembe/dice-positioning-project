@@ -1,0 +1,27 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    background: #373737;
+    color: #eee;
+}
+
+section {
+    height: 50vh;
+    width: 30vw;
+    margin: auto;
+    border: 1px solid #000;
+    display: flex;
+}
+
+section > span {    
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    background: #c6c6c6;
+}
