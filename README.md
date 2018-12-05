@@ -1,12 +1,13 @@
-# Dice Positioning mini-project
+# CSS Layout mini-project
+## Dice Positioning
 
-With the given containers, create all six sides of a dice. Only edit the index.html, and index.css, you should not need to change anything in setStyles.css. 
+Using the display or position property, create all six sides of a dice. You should only need to edit the 'index.html', and 'index.css', no need to change anything in 'setStyles.css'. 
 
-Try to create each side of the dice more than one way (use a different position property).
+For extra practice, try to create each side of the dice more than one way (use different properties).
 
 <details>
 
-<summary> <code> Testing Down arrow text </code> </summary>
+<summary> <code> Check out some of the more common properties that 'flexbox' uses. </code> </summary>
 
 ```css
 
