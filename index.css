@@ -1,3 +1,44 @@
 section {
     display: flex;
 }
+
+.one{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.two span:nth-of-type(2){
+    margin-left:auto;
+}
+
+.three{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.three span:nth-of-type(2){
+    margin: auto;
+}
+
+.three span:nth-of-type(3){
+    margin-left:auto;
+}
+
+.four {
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+.top, .bottom{
+    display: flex;
+    justify-content: space-between
+}
